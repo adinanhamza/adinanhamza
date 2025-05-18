@@ -1,37 +1,41 @@
-# Hi, I'm Adinan CK 👋
+# 👋 Hello, I'm Adinan CK
 
-I am a dedicated Flutter developer focused on building high-quality mobile applications with smooth UI and robust functionality. Passionate about clean code, best practices, and continuous learning.
-
----
-
-## 🔭 Currently Working On
-- Developing a **Movie Streaming App** with Flutter and Firebase  
-- Exploring advanced **state management** techniques and backend integration
+### Flutter Developer | Mobile App Enthusiast | UI/UX Lover
 
 ---
 
-## 💡 Skills & Technologies
+### About Me
 
-- **Languages:** Dart, JavaScript  
-- **Frameworks:** Flutter, Firebase  
-- **Tools:** Git, VS Code, Android Studio  
-- **Databases:** Hive, Firebase Firestore  
+I build beautiful, performant mobile applications using Flutter and Dart.  
+I focus on clean architecture, intuitive UI designs, and smooth user experiences.
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adinanck&show_icons=true&theme=default" alt="GitHub Stats" />
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
-## 📫 Contact Me
+### 📈 GitHub Stats
 
-- Email: [your-email@example.com](mailto:your-email@example.com)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adinanck&show_icons=true&theme=vue-dark" alt="GitHub Stats" />
+</p>
 
 ---
 
-Thank you for visiting my profile. I’m always open to collaboration and learning opportunities!
+### 📫 Get In Touch
+
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+
+---
+
+![Thank You](https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif)
