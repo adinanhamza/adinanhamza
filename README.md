@@ -1,37 +1,31 @@
-<h1 align="center">Hi 👋, I'm Mohammed Adinan Ck</h1>
+# 👋 Hi, I'm Adinan CK!
+
+![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+I'm a passionate Flutter developer who loves building beautiful and user-friendly mobile apps.  
+I enjoy turning ideas into real projects with clean code and smooth designs.
 
 ---
 
-### 🚀 About Me
+### 🚀 What I Do
 
-- 🔭 I’m currently learning  on a **backends** 
-- 👯 I’m looking to collaborate on **Flutter-based open source projects**  
-- 💬 Ask me about Flutter, Firebase, or mobile UI/UX  
-- 📫 How to reach me: **adinanck4557@gmail.com**  
-- ⚡ Fun fact: I can code and design with equal passion 😄  
+![Flutter Animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+Build cross-platform mobile apps with Flutter and Dart.
 
----
-
-
-### 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" />
-</p>
+![Design Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+Focus on clean UI/UX and animations.
 
 ---
 
-### 📫 Connect with Me
+### 📫 Get in Touch
 
-<p align="left">
-  <a href="mailto:yourname@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+Feel free to reach out!
 
+[![Email](https://img.shields.io/badge/Email-AdinanCK-blue?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdinanCK-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
 
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+---
+
+### 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=adinanck&show_icons=true&theme=radical)
