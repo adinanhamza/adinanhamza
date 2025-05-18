@@ -12,16 +12,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Provider-0A0A0A?style=for-the-badge&logo=provider&logoColor=white"/>
-</p>
-
----
 
 ### 📈 GitHub Stats & Activity
 
@@ -43,15 +33,5 @@
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
----
-
-### 🎬 Featured Projects
-
-- 🎥 **Movie App** – Netflix-style UI using Flutter & Firebase  
-- 🛍️ **E-commerce UI** – Flipkart-style shopping interface  
-- 🌦️ **Weather App** – Real-time weather with clean UI  
-- 📦 **Todo Manager** – Hive-powered offline storage
-
----
 
 ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
