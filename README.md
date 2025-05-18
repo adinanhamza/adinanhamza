@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohammed Adinan Ck</h1>
-<h3 align="center">A passionate Flutter developer from India 💙</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Flutter+Developer;Passionate+about+UI%2FUX;Loves+Building+Mobile+Apps" alt="Typing SVG" />
-</p>
 
 ---
 
