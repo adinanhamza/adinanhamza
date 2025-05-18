@@ -9,8 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on a **Movie App** like Netflix  
-- 🌱 I’m learning advanced **Flutter animations** and **backend integration**  
+- 🔭 I’m currently learning  on a **backends** 
 - 👯 I’m looking to collaborate on **Flutter-based open source projects**  
 - 💬 Ask me about Flutter, Firebase, or mobile UI/UX  
 - 📫 How to reach me: **adinanck4557@gmail.com**  
