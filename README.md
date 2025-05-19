@@ -1,8 +1,5 @@
 # 👋 Hello, I'm Adinan CK
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&width=450&lines=Flutter+Developer;Mobile+App+Enthusiast;UI%2FUX+Lover" alt="Typing SVG" />
-</p>
 
 ### Flutter Developer | Mobile App Enthusiast | UI/UX 
 
