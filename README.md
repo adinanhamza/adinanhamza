@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Flutter, Dart, Firebase, Provider, supabase , **
 
-- 📫 Reach me at **adinanck@example.com**
+- 📫 Reach me at **adinanck4557@gmail.com**
 
 ---
 
