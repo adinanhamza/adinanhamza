@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/adinanck](https://github.com/adinanck?tab=repositories)
 
-- 💬 Ask me about **Flutter, Dart, Firebase, Provider, Hive**
+- 💬 Ask me about **Flutter, Dart, Firebase, Provider, supabase , **
 
 - 📫 Reach me at **adinanck@example.com**
 
